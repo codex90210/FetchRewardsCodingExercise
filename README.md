@@ -1,6 +1,8 @@
 # FetchRewardsCodingExercise
 
-Fetch Rewards Coding Exercise Documentation
+Hello My Name is David Mompoint, 
+
+Welcome to My Fetch Rewards Coding Exercise Documentation!
 
 This coding exercise utilizes SeatGeek API. This exercise shows how users are able to search for an event, select one from a table cell, like and unlike an event, 
 and being able to view the date and location where avaible.
@@ -17,4 +19,8 @@ intacted per event.
 
 I've implemented a filteration function where users can type in their desiered event and the table will automatically update as they type.
 
-If you have any questions feel free to contact me anytime.
+If you have any questions feel free to contact me anytime. 
+
+Thank you for your consideration, 
+
+David M.
